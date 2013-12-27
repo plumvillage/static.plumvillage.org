@@ -1,0 +1,38 @@
+---
+author: yasha
+comments: true
+date: 2012-12-01 18:17:05+00:00
+layout: page
+slug: thich-nhat-hanh
+title: Thich Nhat Hanh
+wordpress_id: 7
+---
+
+[caption id="attachment_2437" align="alignright" width="173"]![](http://plumvillage.org/wp-content/uploads/2012/12/Thich-Nhat-Hanh.jpg) Thich Nhat Hanh, photo courtesy of Paul Davis[/caption]
+
+One of the best known and most respected Zen masters in the world today, poet, and peace and human rights activist, Thich Nhat Hanh (called Thây by his students) has led an extraordinary life. Zen Master Thich Nhat Hanh is perhaps most known for his prolific writings on meditation, mindfulness, and peace. He has published over 100 titles of sutra translations and commentaries, mindfulness manuals, poems, prose, and children's stories, with more than 90 in English, including the best-selling [Peace Is Every Step](http://www.amazon.com/Peace-Is-Every-Step-Mindfulness/dp/0553351397), [The Art of Power](http://www.amazon.com/Art-Power-Thich-Nhat-Hanh/dp/0061242365/ref=sr_1_3?s=books&ie=UTF8&qid=1384443891&sr=1-3&keywords=the+art+of+power), [True Love](http://www.amazon.com/True-Love-Practice-Awakening-Heart/dp/1590304047), [Old Path White Clouds](http://www.parallax.org/cgi-bin/shopper.cgi?preadd=action&key=BOOKOPWC) and [Anger](http://www.amazon.com/Anger-Cooling-Thich-Nhat-Hanh/dp/1573229377). Thich Nhat Hanh's key teaching is that, through mindfulness, we can learn to live happily in the present moment—the only way to truly develop peace, both in one's self and in the world.
+
+Born in central Vietnam in 1926 Thich Nhat Hanh entered the monkhood at the age of sixteen at Tu Hieu Temple, Hue, and received the full ordination there in 1949. The Vietnam War confronted Buddhist monastics with the question of whether to adhere to the contemplative life and remain meditating in the monasteries, or to help the villagers suffering under bombings and other devastation of the war. Thich Nhat Hanh was one of those who chose to do both, helping to found the "[Engaged Buddhism](http://en.wikipedia.org/wiki/Engaged_Buddhism)" movement, coining the term in his book Vietnam: [Lotus in a Sea of Fire](http://www.amazon.com/Vietnam-Lotus-Thich-Nhat-Hanh/dp/0809013347). His life has since been dedicated to the work of inner transformation for the benefit of individuals and society.
+
+In 1961 he travelled to the United States to study Comparative Religion at Princeton University and the following year went on to teach and research Buddhism at Columbia University. He returned to Vietnam in 1963, and his work to renew Buddhism and work for peace in Vietnam led him, in 1964, to found Van Hanh Buddhist University in Saigon and the [La Boi publishing House](http://www.laboi.com/). [caption id="attachment_3472" align="alignleft" width="300"]![6cedars](http://plumvillage.org/wp-content/uploads/2012/12/6cedars-300x253.jpg) The first six members of the Order of Interbeing[/caption]That same year he also founded the School of Youth Social Service, a grass-roots relief organization that trained young people practically and spiritually to be sent out to rebuild bombed villages, set up schools and medical centers, resettle homeless families, and organize agricultural cooperatives. Rallying some 10,000 student volunteers, the SYSS based its work on the Buddhist principles of non-violence and compassionate action. In 1966 he established the [Order of Interbeing](http://plumvillage.org/about/order-of-interbeing/), a new order based on the traditional Buddhist Bodhisattva precepts.
+
+On May 1st, 1966 at Tu Hieu Temple, Thich Nhat Hanh received the 'lamp transmission' from Master Chan That, becoming a dharma teacher of the Lieu Quan lineage in the 42nd generation of the Lam Te Dhyana school (Lin Chi [Chan](http://en.wikipedia.org/wiki/Chinese_Ch%C3%A1n) in Chinese or Rinzai Zen in Japanese). Soon after receiving the lamp, he travelled once more to the U.S. and Europe to make the case for peace and an end to fighting in Vietnam. In 1967, as a result of his work, he was nominated for the Nobel Peace Prize by Martin Luther King. At the same time, both North and South Vietnam denied him the right to return to Vietnam, as a result of his peace work, and he began a long exile of 39 years.
+
+In early 1969 Thich Nhat Hanh travelled to Paris to begin peace work at the Paris Peace Talks, and was soon nominated by Unified Buddhist Church to head Vietnam's Buddhist Peace Delegation. This work continued until the end of the war 1975, and during these years he also taught and researched Buddhism at the University of Sorbonne, Paris.
+
+Later in 1975 he established the Sweet Potato community near Paris, and in 1982 the community moved to South-West France and established Plum Village Practice Center. Under the spiritual leadership of Zen Master Thich Nhat Hanh, Plum Village has grown from a small rural farmstead to become today Europe's largest and most active Buddhist monastery, with associated monasteries in four continents and lay sanghas in over forty countries worldwide. Zen Master Thich Nhat Hanh continues to lead meditation retreats on the art of mindful living across the world, including special retreats for psychotherapists, teachers, businessmen, politicians, scientists, police officers and, more recently, for Israelis and Palestinians.
+
+[caption id="attachment_101" align="alignright" width="192"]![](http://plumvillage.org/wp-content/uploads/2012/12/thay-king-300x222.jpg) Martin Luther King Jr & Thich Nhat Hanh[/caption]
+
+In September 2001, just a few days after the suicide terrorist attacks on the World Trade Center, he addressed the issues of non-violence and forgiveness in a memorable speech at [Riverside Church](http://www.theriversidechurchny.org/) in New York City. In September 2003 (and again in 2011) he gave a retreat for US Congressmen and Congresswomen; in October 2006 he addressed UNESCO in Paris, calling for specific steps to reverse the cycle of violence, war and global warming; in 2007 he was a keynote speaker at UNESCO's International Wesak celebration in Hanoi; and in October 2008 he addressed the Parliament of India. In 2009 he gave addressed the World Parliament of Religions, and in 2012 was invited to speak in both the UK Parliament in Westminster and the Northern Ireland Assembly in Stormont.
+
+Zen Master Thich Nhat Hanh continues travels the world to lead retreats, and is based in Plum Village, France, the meditation community he founded, where he teaches, writes, and gardens. He is now the Elder and spiritual head of the lineage of Tu Hieu Temple, Hue, and its associated monasteries. Today he has ordained over six hundred monastic disciples, and over one hundred and fifty dharma teachers (lay and monastic). He has transmitted the Five Mindfulness Trainings to tens of thousands of lay students, and the Order of Interbeing has grown from its six members in Saigon in 1966 to over 1,500 members worldwide today.
+
+**Writing to Thich Nhat Hanh**
+If you’d like to write a letter to Thich Nhat Hanh, you can mail it to one of his addresses in Plum Village, either [Upper Hamlet, Lower Hamlet or New Hamlet](http://plumvillage.org/retreats/visiting-us/hamlet/).
+
+**How do you pronounce Thich Nhat Hanh?**
+The English pronunciation is: Tik · N’yat · Hawn
+However since Vietnamese is a tonal language, this is only a close approximation for how one would pronounce it in Vietnamese. (His name is sometimes misspelled as Thich Nhat Hahn, Thich Nhat Han, and Thich Nat Han.)
+
+By his students he is affectionately known as Thay (pronounced “Tay” or “Tie”), which is Vietnamese for “teacher.”
