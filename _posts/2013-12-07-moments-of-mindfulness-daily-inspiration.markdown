@@ -4,7 +4,7 @@ comments: true
 date: 2013-12-07 07:20:23+00:00
 layout: post
 slug: moments-of-mindfulness-daily-inspiration
-title: 'New Book: Moments of Mindfulness'
+title: Moments of Mindfulness
 wordpress_id: 3687
 categories:
 - book

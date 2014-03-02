@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-14 18:26:48+00:00
+date: 2012-12-14 17:26:48+00:00
 layout: page
 slug: the-body-as-practice
 title: The Body as Practice

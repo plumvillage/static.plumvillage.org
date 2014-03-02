@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-14 18:35:58+00:00
+date: 2012-12-14 17:35:58+00:00
 layout: page
 slug: lazy-day
 title: Lazy Day

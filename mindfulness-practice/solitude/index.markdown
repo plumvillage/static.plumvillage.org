@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-15 14:43:54+00:00
+date: 2012-12-15 13:43:54+00:00
 layout: page
 slug: solitude
 title: Solitude

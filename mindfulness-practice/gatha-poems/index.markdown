@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-14 18:34:26+00:00
+date: 2012-12-14 17:34:26+00:00
 layout: page
 slug: gatha-poems
 title: Gatha-Poems

@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2013-01-04 16:23:23+00:00
+date: 2013-01-04 15:23:23+00:00
 layout: post
 slug: spring-retreat
 title: Spring Retreat

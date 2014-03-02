@@ -1,5 +1,5 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
 date: 2012-12-14 18:32:33+00:00
 layout: page
@@ -12,11 +12,25 @@ Eating a meal together is a meditative practice. We should try to offer our pres
 
 We are aware of the whole sangha as we serve ourselves and we should take an amount of food that is good for us. Before eating, the bell will be invited for three sounds and we can enjoy breathing in and out while practicing the five contemplations.
 
-This food is a gift of the whole universe,the earth, the sky and much mindful work.
-May we eat in mindfulness so as to be worthy of it.
-May we transform our unskillful states of mind and learn to eat in moderation.
-May we take only foods that nourish us and prevent illness.
-May we accept this food to realize the path of understanding and love.
+
+
+
+
+  1. This food is a gift of the earth, the sky, numerous living beings, and much hard and loving work.
+
+
+  2. May we eat with mindfulness and gratitude so as to be worthy to receive this food.
+
+
+  3. May we recognise and transform unwholesome mental formations, especially our greed and learn to eat with moderation
+
+
+  4. May we keep our compassion alive by eating in such a way that reduces the suffering of living beings, stops contributing to climate change, and heals and preserves our precious planet.
+
+
+  5. We accept this food so that we may nurture our brotherhood and sisterhood, build our Sangha, and nourish our ideal of serving all living beings.
+
+
 
 We should take our time as we eat, chewing each mouthful at least 30 times, until the food becomes liquefied. This aids the digestive process. Let us enjoy every morsel of our food and the presence of the dharma brothers and sisters around us. Let us establish ourselves in the present moment, eating in such a way that solidity, joy and peace be possible during the time of eating.
 

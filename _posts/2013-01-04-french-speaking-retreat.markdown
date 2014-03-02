@@ -1,7 +1,7 @@
 ---
-author: admin
+author: pvwebmonk
 comments: false
-date: 2013-01-04 16:15:20+00:00
+date: 2013-01-04 15:15:20+00:00
 layout: post
 slug: french-speaking-retreat
 title: French Speaking Retreat 15 – 22 March 2013

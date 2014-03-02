@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-15 14:54:42+00:00
+date: 2012-12-15 13:54:42+00:00
 layout: page
 slug: becoming-a-monastic
 title: Becoming a Monastic

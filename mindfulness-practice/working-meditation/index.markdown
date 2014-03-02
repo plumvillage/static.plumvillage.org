@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-14 18:33:19+00:00
+date: 2012-12-14 17:33:19+00:00
 layout: page
 slug: working-meditation
 title: Working Meditation

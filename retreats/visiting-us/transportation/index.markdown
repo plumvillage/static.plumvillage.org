@@ -1,14 +1,44 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2013-01-03 15:33:59+00:00
+date: 2013-01-03 14:33:59+00:00
 layout: page
 slug: transportation
 title: Transportation
 wordpress_id: 317
 ---
 
-Plum Village is about 85 km east of [Bordeaux](http://en.wikipedia.org/wiki/Bordeaux) (which has an international airport, [Bordeaux-Merignac Airport](http://www.bordeaux.aeroport.fr/en)), and 4 hours from Paris by [TGV](http://en.wikipedia.org/wiki/TGV) (Train à Grande Vitesse, meaning high-speed train), for ticket reservation, you are welcome to visit [idTGV](http://www.idtgv.com/en/), [Railway Europe](http://www.raileurope.com/), [TGV-Europe](http://www.tgv-europe.com/en/), [voyages-sncf](http://www.voyages-sncf.com/), [SNCF](http://www.sncf.com/en_EN/flash/), [ter-sncf](http://www.ter-sncf.com/) or [bonjourlafrance](http://www.bonjourlafrance.com/france-trains/tgv.htm). [Google translate](http://translate.google.com/#fr|en|) may help you translate these pages. From Bordeaux you take the train to Sainte Foy la Grande (direction Bergerac and Sarlat), for more details please download the latest [train schedule](http://plumvillage.org/wp-content/uploads/2013/07/26-AFFICHE-2013_tcm-11-14678.pdf) [_from 15 July 2013 to 14 December 2013_] from Bordeaux to St. Foy La Grande vice versa.
+Plum Village is about 85 km east of [Bordeaux](http://en.wikipedia.org/wiki/Bordeaux) (which has an international airport, [Bordeaux-Merignac Airport](http://www.bordeaux.aeroport.fr/en)), and 4 hours from Paris by [TGV](http://en.wikipedia.org/wiki/TGV) (Train à Grande Vitesse, meaning high-speed train).
+
+For **ticket reservation**, you can visit:
+
+
+
+
+  1. [idTGV](http://www.idtgv.com/en/)
+
+
+  2. [Railway Europe](http://www.raileurope.com/)
+
+
+  3. [TGV-Europe](http://www.tgv-europe.com/en/)
+
+
+  4. [voyages-sncf](http://www.voyages-sncf.com/)
+
+
+  5. [SNCF](http://www.sncf.com/en_EN/flash/)
+
+
+  6. [ter-sncf](http://www.ter-sncf.com/)
+
+
+  7. [bonjourlafrance](http://www.bonjourlafrance.com/france-trains/tgv.htm)
+
+
+[Google translate](http://translate.google.com/#fr|en|) may help you translate these websites. 
+
+From Bordeaux you take the train to Sainte Foy la Grande (direction Bergerac and Sarlat), for more details about the schedule please download the latest [«train schedule» ](http://plumvillage.org/wp-content/uploads/2014/01/26-AFFICHE_09_01_14_tcm-11-72634.pdf) [_from 15 December 2013 to 05 July 2014_] from Bordeaux to St. Foy La Grande vice versa.
 
 We shall arrange for your transportation to and from Ste. Foy la Grande station only on arrival and depature day. The shuttles are organized according to the arrival times you transmit to us!
 

@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-19 14:45:40+00:00
+date: 2012-12-19 13:45:40+00:00
 layout: post
 slug: work-how-to-find-joy-and-meaning-in-each-hour-of-the-day
 title: 'Work: How to Find Joy and Meaning in Each Hour of the Day'

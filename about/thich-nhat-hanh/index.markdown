@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-01 18:17:05+00:00
+date: 2012-12-01 17:17:05+00:00
 layout: page
 slug: thich-nhat-hanh
 title: Thich Nhat Hanh

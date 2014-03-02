@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-15 14:44:59+00:00
+date: 2012-12-15 13:44:59+00:00
 layout: page
 slug: taking-refuge
 title: Taking Refuge

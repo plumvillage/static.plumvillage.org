@@ -1,10 +1,10 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-19 14:48:26+00:00
+date: 2012-12-19 13:48:26+00:00
 layout: post
 slug: apple-harvest
-title: 'Apple Harvest  '
+title: Apple Harvest
 wordpress_id: 265
 categories:
 - Monastic

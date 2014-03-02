@@ -3,6 +3,7 @@ author: huetruc
 comments: true
 date: 2013-05-25 09:35:38+00:00
 layout: page
+published: false
 slug: hameau-du-haut-retraite-de-noel-et-du-nouvel-an
 title: Hameau du Haut - retraite de Noel et du nouvel an
 wordpress_id: 1689

@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-14 18:39:27+00:00
+date: 2012-12-14 17:39:27+00:00
 layout: page
 slug: beginning-anew
 title: Beginning Anew

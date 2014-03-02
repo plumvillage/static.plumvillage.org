@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2012-12-14 18:25:38+00:00
+date: 2012-12-14 17:25:38+00:00
 layout: page
 slug: bell-of-mindfulness
 title: Bell of Mindfulness

@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2013-01-04 16:25:31+00:00
+date: 2013-01-04 15:25:31+00:00
 layout: post
 slug: summer-opening-2013
 title: Summer Opening 2013

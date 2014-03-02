@@ -1,7 +1,7 @@
 ---
-author: yasha
+author: pvwebmonk
 comments: true
-date: 2013-01-03 16:12:08+00:00
+date: 2013-01-03 15:12:08+00:00
 layout: page
 slug: galleries
 title: Galleries
